@@ -1,5 +1,6 @@
+/* header  */
 .from {
-  min-height: 50px;
+  min-height: 40px;
   background-color: red;
   position: fixed;
   top:0;
@@ -13,35 +14,18 @@
   
     
 }
-.fromlayout {
-  padding-left: 0;
-  margin: auto 16px;
-  display: inline-block;
-  
-}
 .fromitems {
-  
   list-style: none;
-  
-  
   cursor: pointer;
-  background-color: rgb(49, 65, 104);
-  padding: 8px 20px;
+  background-color: rgb(9, 45, 136);
   color: rgb(244, 246, 249);
   background-color: transparent;
   border: none;
-  
-  
-  
-  
   border-radius: 30px;
-  background-color: rgb(255, 20, 20);
   display: inline-block;
   margin: 0 50px;
 }
-.home {
-  background-color: rgb(235, 31, 31);
-}
+/* coffee and orange  */
 .heading {
   width: auto;
   display:inline-block;
